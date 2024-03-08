@@ -34,4 +34,11 @@
   <p><a href="https://www.buymeacoffee.com/zenithmanuel"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zenithmanuel" /></a></p>  <br><br>
 </div>
 
-[![Codewars Badge](https://www.codewars.com/users/23nith/badges/large)](https://www.codewars.com/users/23nith)
+<div style="margin: 10px;">
+  <a href="https://www.codewars.com/users/23nith">
+  <img align="right" alt="Coding" width="400" src="https://www.codewars.com/users/23nith/badges/large">
+  </a>
+</div>
+
+
+
