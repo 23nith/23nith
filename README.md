@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Docker, Kubernetes**
 
-- 👨‍💻 All of my projects are available at [www.zenithmanuel.com](www.zenithmanuel.com)
+- 👨‍💻 All of my projects are available at [www.zenithmanuel.com](https://www.zenithmanuel.com)
 
 - 💬 Ask me about **React.js, Ruby on Rails**
 
