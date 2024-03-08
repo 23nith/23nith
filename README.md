@@ -27,9 +27,6 @@
   <p><img align="left" style="width: fit-content;" src="https://github-readme-stats.vercel.app/api/top-langs?username=23nith&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="23nith" /><img align="right" style=" width: fit-content;" src="https://github-readme-streak-stats.herokuapp.com/?user=23nith&theme=tokyonight" alt="23nith" /></p>
 </div>
 
----
-
-
 <div style="display: block; margin-top: 50px;">
   <div>
   <h3 align="left">Support:</h3>
