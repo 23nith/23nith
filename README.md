@@ -26,8 +26,6 @@
 
 <br/>
 
----
-
 |<img align="left" style="width: fit-content;" src="https://github-readme-stats.vercel.app/api/top-langs?username=23nith&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="23nith" /> | <img align="right" style=" width: fit-content;" src="https://github-readme-streak-stats.herokuapp.com/?user=23nith&theme=tokyonight" alt="23nith" />|
 |---|---|
 | <h3 align="left">Support:</h3><p><a href="https://www.buymeacoffee.com/zenithmanuel"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zenithmanuel" /></a></p><br><br> | <h3><br/></h3><div style="margin-top: 100px;"><a href="https://www.codewars.com/users/23nith"><img align="right" alt="Coding" width="400" src="https://www.codewars.com/users/23nith/badges/large"></a></div> |
