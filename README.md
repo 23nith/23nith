@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **zenithmanuel@gmail.com**
 
-### Connect with me:
+### :email: Connect with me :
 <a href="https://linkedin.com/in/maria-zenith-manuel" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Blank_square.svg/1200px-Blank_square.svg.png" alt="maria-zenith-manuel" height="30" width="40" /></a><a href="https://linkedin.com/in/maria-zenith-manuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maria-zenith-manuel" height="30" width="40" /></a>
 
 ### :hammer_and_wrench: Languages and Tools :
